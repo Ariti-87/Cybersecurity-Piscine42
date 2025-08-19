@@ -7,8 +7,9 @@ The Piscine is a structured set of small projects (modules) designed to teach va
 ## 🛠️ Included Projects
 This repository contains the projects I completed during the Piscine, including but not limited to:
 
-- [Spider & Scorpion](arachnida/README.md) – Recursive image downloader & EXIF metadata analyzer (Python)
-- Other modules covering different languages, paradigms, and technologies learned during the Piscine.
+- [Spider & Scorpion](./arachnida/) – Recursive image downloader & EXIF metadata analyzer (Python)
+- [ft_otp](./ft_otp/) – One-Time Password generator (HOTP algorithm, Python)
+
 
 Each project is self-contained with its own README explaining usage, requirements, and implementation details.
 

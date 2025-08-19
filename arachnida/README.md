@@ -9,7 +9,6 @@ This project consists of **two programs** for working with images from websites:
 Both programs are written in **Python** and the logic is fully implemented manually.
 > ❌ Using external tools like `wget` or `scrapy` is not allowed.
 
----
 
 ## 🕷️ Spider
 
@@ -36,7 +35,6 @@ It supports the following file extensions by default:
 python spider.py -r -l 3 -p ./downloads https://example.com
 ```
 
----
 
 ## 🦂 Scorpion
 
@@ -63,7 +61,6 @@ DateTime: 2023:08:01 12:34:56
 ...
 ```
 
----
 
 ## 🎯 Purpose
 This project is designed for **learning Python scripting**, **web scraping fundamentals**, and **image metadata analysis**, while respecting the rule of implementing all logic manually.
