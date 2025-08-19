@@ -37,7 +37,7 @@ python hotp.py -k ft_otp.key
 OATHTOOL 32 key : XXXXXX
 MY OTP : XXXXXX
 ```
-- Use the Base32 key printed by the script after OATHTOOL 32 key : to verify the OTP:
+- Use the Base32 key printed by the script `OATHTOOL 32 key : XXXXXX` to verify the OTP:
 ```sh
 oathtool --totp -b <OATHTOOL 32 key>
 ```
